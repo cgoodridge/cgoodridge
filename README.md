@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front End Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cgoodridge-b2b29116b/) or by email at che.goodridge@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big superhero fan so I always try to integrate that into my personal projects in someway.
+- ⚡ Fun fact: I'm a big superhero fan so I always try to integrate that into my personal projects in some way.
